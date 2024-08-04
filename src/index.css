@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'safira march';
+  src: url('./assets/fonts/safira_march/safira_march.otf');
+}
+
+@font-face {
+  font-family: 'creato display';
+  font-style: italic;
+  font-weight: 900;
+  src: url('./assets/fonts/creato_display/CreatoDisplay-BlackItalic.otf');
+}
+
+@font-face {
+  font-family: 'creato display';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./assets/fonts/creato_display/CreatoDisplay-Regular.otf');
+}
+
+@font-face {
+  font-family: 'creato display';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./assets/fonts/creato_display/CreatoDisplay-Medium.otf');
+}
+
+@font-face {
+  font-family: 'creato display';
+  font-style: normal;
+  font-weight: 900;
+  src: url('./assets/fonts/creato_display/CreatoDisplay-Bold.otf');
+}
